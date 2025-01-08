@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Saad Khan
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning hash maps and stack
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on some mini projects
 - 📫 Reach me through my email saadkhan7903@gmail.com
 - 😄 Hobbies: Playing football, drawing and sketching, reading novels, gaming
