@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Saad Khan
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 👀 I’m focusing on ML and Full Stack development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on some mini projects
 - 📫 Reach me through my email saadkhan7903@gmail.com
